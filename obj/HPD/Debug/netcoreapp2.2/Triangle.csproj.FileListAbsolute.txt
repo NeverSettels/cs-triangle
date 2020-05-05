@@ -1,0 +1,11 @@
+c:\Users\conno_000\Desktop\C#\cs-triangle\obj\HPD\Debug\netcoreapp2.2\Triangle.csprojAssemblyReference.cache
+c:\Users\conno_000\Desktop\C#\cs-triangle\obj\HPD\Debug\netcoreapp2.2\Triangle.csproj.CoreCompileInputs.cache
+c:\Users\conno_000\Desktop\C#\cs-triangle\obj\HPD\Debug\netcoreapp2.2\Triangle.AssemblyInfoInputs.cache
+c:\Users\conno_000\Desktop\C#\cs-triangle\obj\HPD\Debug\netcoreapp2.2\Triangle.AssemblyInfo.cs
+c:\Users\conno_000\Desktop\C#\cs-triangle\bin\HPD\Debug\netcoreapp2.2\Triangle.deps.json
+c:\Users\conno_000\Desktop\C#\cs-triangle\bin\HPD\Debug\netcoreapp2.2\Triangle.runtimeconfig.json
+c:\Users\conno_000\Desktop\C#\cs-triangle\bin\HPD\Debug\netcoreapp2.2\Triangle.runtimeconfig.dev.json
+c:\Users\conno_000\Desktop\C#\cs-triangle\bin\HPD\Debug\netcoreapp2.2\Triangle.dll
+c:\Users\conno_000\Desktop\C#\cs-triangle\bin\HPD\Debug\netcoreapp2.2\Triangle.pdb
+c:\Users\conno_000\Desktop\C#\cs-triangle\obj\HPD\Debug\netcoreapp2.2\Triangle.dll
+c:\Users\conno_000\Desktop\C#\cs-triangle\obj\HPD\Debug\netcoreapp2.2\Triangle.pdb
